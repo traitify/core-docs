@@ -7,3 +7,7 @@ Goals:
 - Nice user friendly interface for use by outside developers
 - Contains request and resqponse examples for each endpoint as well as required and optional parameters
 - Interactive query interface for the API for the user to use a test api key and make queries agains the staging environment
+
+Examples:
+http://developer.github.com/v3/
+http://developer.factual.com/
