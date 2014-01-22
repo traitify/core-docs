@@ -9,5 +9,5 @@ Goals:
 - Interactive query interface for the API for the user to use a test api key and make queries agains the staging environment
 
 Examples:
-http://developer.github.com/v3/
-http://developer.factual.com/
+- http://developer.github.com/v3/
+- http://developer.factual.com/
